@@ -1,2 +1,5 @@
-0 Rubber Duck
-1 Viking Rubber Duck
+0 Plastic
+1 Can
+2 Paper
+3 Glass
+4 Nothing
